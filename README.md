@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Velina
-- 👀 I’m interested in AI, ML and Data Science
-- 🌱 I’m currently learning Django
+- 👀 Interested in AI, ML and Data Science
+- 🌱 Currently occupied: Python, Django, PostgreSQL, React
 - 📫 How to reach me: viligen@gmail.com
 
 <!---
