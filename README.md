@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Velina
 - 👀 Interested in AI, ML and Data Science
-- 🌱 Currently occupied: Python, Django, PostgreSQL, React
+- 🌱 Currently occupied: Python, Django, PostgreSQL, React.JS
 - 📫 How to reach me: viligen@gmail.com
 
 <!---
