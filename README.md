@@ -34,8 +34,8 @@ I design clean, effective educational content (Quizzes, Exams, Examples), helpin
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viligen&show_icons=true&theme=dracula" alt="GitHub stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viligen&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
