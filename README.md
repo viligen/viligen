@@ -34,6 +34,8 @@ I design clean, effective educational content (Quizzes, Exams, Examples), helpin
 
 ## 📈 GitHub Stats
 
+> ⚠️ Stats reflect public repo activity only.
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viligen&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
